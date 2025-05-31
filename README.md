@@ -13,8 +13,15 @@ Using data visualization and advanced analysis techniques, this dashboard answer
 - Which payment methods are most preferred by users?
 
 ---
-Customer Trends.png
-Revenue.png
+## 📸 Dashboards
+
+### Revenue Dashboard
+
+![Revenue Dashboard](/revenue_dashboard.png)
+
+### Customer Trends Dashboard
+
+![Customer Trends Dashboard](/customer_trends_dashboard.png)
 
 ## 🔍 Key Insights & Findings
 
