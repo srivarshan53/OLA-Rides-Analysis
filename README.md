@@ -17,11 +17,11 @@ Using data visualization and advanced analysis techniques, this dashboard answer
 
 ### Revenue Dashboard
 
-![Revenue Dashboard](/revenue_dashboard.png)
+![Revenue Dashboard](OLA-Rides-Analysis/Revenue.png)
 
 ### Customer Trends Dashboard
 
-![Customer Trends Dashboard](/customer_trends_dashboard.png)
+![Customer Trends Dashboard](OLA-Rides-Analysis/Customer.png)
 
 ## 🔍 Key Insights & Findings
 
